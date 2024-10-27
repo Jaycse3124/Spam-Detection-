@@ -17,12 +17,7 @@ Technologies Used:
     Pandas (for data manipulation)
     Numpy (for numerical operations)
     
-How to Use:
-
-    Clone the Repository:
-
-    bash
-
+Output :-
 Analysis of Naive Bayes Classification Report:
 
     Class 0 (Ham):
